@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(4, 6, 17);
+}
+
+.game-grid{
+    background-color: rgb(11, 15, 43);
+    position: absolute;
+    top: 5%;
+    left: 25%;
+}
+
+.points-label{
+    background-color: rgb(21, 28, 80);
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 5%;
+    left: 70%;
+}
+
+.points-text{
+    transform: rotate(90deg);
+    display: block;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+    
+}
+
+.snake{
+    background-color: forestgreen;
+    position: absolute;
+    border: 1px solid white;
+}
+
+.fruit{
+    background-color: firebrick;
+    position: absolute;
+    border: 1px solid white;
+}
