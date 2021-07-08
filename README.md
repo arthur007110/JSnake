@@ -1,5 +1,5 @@
 # JSnake
-Snake Game Developed With Pure Html CSS and JavaScript
+Classical Snake Game Developed With Pure Html CSS and JavaScript
 
 To play online just acees this [link](https://jsnakeacg.000webhostapp.com/JSnake/index.html)
 
